@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:20px;
+    margin: 20px;
+    padding-left: 55px;
+
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    width: 565px;
+    height: 60px;
+    top: 841px;
+    /* left: 64px; */
+    border-radius: 12px;
+    /* border: 1px; */
+    border: 1px solid rgba(65, 21, 48, 1)
+
+}
+
+.submitt{
+    width: 60px;
+    height: 60px;
+    top: 841px;
+    left: 1316px;
+    border-radius: 0, 12px, 12px, 0;
+    background-color: rgba(65, 21, 48, 1) ;
+
+}
+
+input{
+    width: 505px;
+    height: 55px;
+    /* border-right: none; */
+}

@@ -1,0 +1,94 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 340px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 400px;
+    opacity: 0.9px;
+    background: rgba(245, 199, 169, 1);
+    
+}
+
+.foot1{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin-left: 40px;
+
+}
+
+.foot2{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+.fooabout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+ul{
+    list-style: none;
+    gap: 30px;
+}
+
+.footbtn{
+    width: 400px;
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 200px;
+    border-radius: 12px;
+    background: rgba(65, 21, 48, 1);
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.btnn{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    align-items: center;
+}
+
+.footpara{
+    margin-top: 20px;
+    padding-top: 10px;
+    width: (500px);
+    height: (96px);
+    /* top: 4581px; */
+    /* left: 64px; */
+    /* padding: 8px; */
+    /* gap: 8px; */
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(65, 21, 48, 1);
+
+
+
+}
+
+.footlogo{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 234px;
+    height: 60px;
+    color: rgba(65, 21, 48, 1);
+
+}

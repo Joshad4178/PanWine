@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  h2{
+    width: 123px;
+    height: 39px;
+    top: 969px;
+    padding-left: 68px;
+    /* margin-left: 45%; */
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(65, 21, 48, 1);
+    text-decoration: none;
+  }
+
+  .linkp{
+    text-decoration: none;
+    border-bottom: none;
+  }
+
